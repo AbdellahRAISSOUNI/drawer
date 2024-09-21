@@ -6,6 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
+npx convex dev /to start database server
 # or
 yarn dev
 # or
